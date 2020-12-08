@@ -1,0 +1,5 @@
+venv
+.idea
+__pycache__
+cakebot.code-workspace
+creds.json
